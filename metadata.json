@@ -1,0 +1,7 @@
+{
+  "name": "TransformX AI",
+  "description": "Transform one source document into every channel deliverable with AI cross-deliverable consistency and quality verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
